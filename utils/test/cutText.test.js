@@ -1,0 +1,1 @@
+const cutText = require('../cutText.js');
